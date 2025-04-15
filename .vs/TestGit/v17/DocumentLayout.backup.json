@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Demo\\DemoTools\\TestGit\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestGit\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestGit\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:02:12.504Z",
+              "EditorCaption": ""
             }
           ]
         },
