@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Demo\\DemoTools\\TestGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\testgit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\testgit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\controllers\\eliteclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\controllers\\eliteclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TestGit",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\TestGit.csproj",
+              "RelativeDocumentMoniker": "TestGit\\TestGit.csproj",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\TestGit.csproj",
+              "RelativeToolTip": "TestGit\\TestGit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T03:29:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NewEliteClubPrivilegeModel.cs",
               "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\ModelsRequest\\NewEliteClubPrivilegeModel.cs",
               "RelativeDocumentMoniker": "TestGit\\ModelsRequest\\NewEliteClubPrivilegeModel.cs",
@@ -54,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EliteClubController.cs",
               "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\EliteClubController.cs",
               "RelativeDocumentMoniker": "TestGit\\Controllers\\EliteClubController.cs",
               "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\EliteClubController.cs",
               "RelativeToolTip": "TestGit\\Controllers\\EliteClubController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T09:12:01.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Program.cs",
               "RelativeDocumentMoniker": "TestGit\\Program.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TestGit\\Data\\AppDbContext.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\appsettings.json",
               "RelativeDocumentMoniker": "TestGit\\appsettings.json",
