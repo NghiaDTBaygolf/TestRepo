@@ -1,5 +1,6 @@
 using System.Numerics;
 using Microsoft.AspNetCore.Mvc;
+using TestGit.Data;
 
 namespace TestGit.Controllers
 {
@@ -7,6 +8,7 @@ namespace TestGit.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        private readonly AppDbContext _context;
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -14,9 +16,10 @@ namespace TestGit.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, AppDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         [HttpGet(Name = "GetWeatherForecast")]

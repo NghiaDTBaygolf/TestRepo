@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Demo\\DemoTools\\TestGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\controllers\\eliteclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\controllers\\eliteclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\modelsrequest\\neweliteclubprivilegemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\modelsrequest\\neweliteclubprivilegemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|d:\\demo\\demotools\\testgit\\testgit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B14C9C0-5236-40A6-B222-544D99057E96}|TestGit\\TestGit.csproj|solutionrelative:testgit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +30,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewEliteClubPrivilegeModel.cs",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\ModelsRequest\\NewEliteClubPrivilegeModel.cs",
+              "RelativeDocumentMoniker": "TestGit\\ModelsRequest\\NewEliteClubPrivilegeModel.cs",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\ModelsRequest\\NewEliteClubPrivilegeModel.cs",
+              "RelativeToolTip": "TestGit\\ModelsRequest\\NewEliteClubPrivilegeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:19:32.468Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TestGit\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TestGit\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAABIAAAAAAAAAA==",
+              "Title": "EliteClubController.cs",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\EliteClubController.cs",
+              "RelativeDocumentMoniker": "TestGit\\Controllers\\EliteClubController.cs",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Controllers\\EliteClubController.cs",
+              "RelativeToolTip": "TestGit\\Controllers\\EliteClubController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:02:12.504Z",
+              "WhenOpened": "2025-04-18T09:12:01.955Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Program.cs",
+              "RelativeDocumentMoniker": "TestGit\\Program.cs",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Program.cs",
+              "RelativeToolTip": "TestGit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:41:20.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestGit\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TestGit\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:37:56.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\appsettings.json",
+              "RelativeDocumentMoniker": "TestGit\\appsettings.json",
+              "ToolTip": "D:\\Demo\\DemoTools\\TestGit\\TestGit\\appsettings.json",
+              "RelativeToolTip": "TestGit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T03:59:21.173Z"
             }
           ]
         },
